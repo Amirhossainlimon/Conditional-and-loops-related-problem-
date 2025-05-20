@@ -1,0 +1,2 @@
+This C++ program takes a name as input and counts how many vowels are present in it.
+It checks each character of the name and increases the count if the character is a vowel.
